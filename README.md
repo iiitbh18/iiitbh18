@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/bhaskarkumar6541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhaskarkumar6541" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bhaskarkumar654321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhaskarkumar654321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/code-iiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code-iiit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhaskarkumar654321/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@bhaskarkumar654321" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bhaskakumar654321/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@bhaskarkumar654321" height="30" width="40" /></a>
 <a href="https://discord.gg/bhaskar#8462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhaskar#8462" height="30" width="40" /></a>
 </p>
 
