@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar </h1>
-<h3 align="center">I'm Bhaskar I am pursuing Electronics and Telecommunication Engineering at International Institute of Information Technology(IIIT BBSR)(2019-2023),ODISHA .I have a keen interest in programming and problem solving domains. I am always ready to have new experiences, meet new people and learn new things.</h3>
+<h3 align="center">I'm Bhaskar I am pursuing B.Tech from  International Institute of Information Technology(IIIT BBSR)(2019-2023),ODISHA .I have a keen interest in programming and problem solving domains. I am always ready to have new experiences, meet new people and learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiitbh18&label=Profile%20views&color=0e75b6&style=flat" alt="iiitbh18" /> </p>
 
