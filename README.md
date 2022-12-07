@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iiitbh18&label=Profile%20views&color=0e75b6&style=flat" alt="iiitbh18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Bhaskar18Jha" target="blank"><img src="https://img.shields.io/twitter/follow/Bhaskar18Jha?logo=twitter&style=for-the-badge" alt="jhab53226711" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Bhaskar23Jha" target="blank"><img src="https://img.shields.io/twitter/follow/Bhaskar18Jha?logo=twitter&style=for-the-badge" alt="jhab53226711" /></a> </p>
 
 - 📫 How to reach me **bhaskarjha654321@gmail.com**
 
@@ -17,7 +17,7 @@
 <a href="https://www.codechef.com/users/code_jha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_jha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhaskarkumar6541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhaskarkumar6541" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/bhaskarkumar654321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bhaskarkumar654321" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/code-iiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code-iiit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/code_iiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code-iiit" height="30" width="40" /></a>
 <a href="https://ale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@bhaskarkumar654321" height="30" width="40" /></a>
 <a href="https://discord.gg/bhaskar#8462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bhaskar#8462" height="30" width="40" /></a>
 </p>
