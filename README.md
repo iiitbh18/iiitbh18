@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Bhaskar23Jha" target="blank"><img src="https://img.shields.io/twitter/follow/Bhaskar23Jha?logo=twitter&style=for-the-badge" alt="jhab53226711" /></a> </p>
 
-- 📫 How to reach me **bhaskarjha654321@gmail.com**
+- 📫 How to reach me **bhaskarkumar654321@gmail.com**
 
 
 
